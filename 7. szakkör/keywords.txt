@@ -1,0 +1,15 @@
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+segment4	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+printNumber	KEYWORD2
+printDigit KEYWORD2
+setSegment KEYWORD2
+
+

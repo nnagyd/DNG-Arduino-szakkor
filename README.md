@@ -2,6 +2,8 @@
 ## Haladóknak (akik tavasszal is jártak)
 * Aktuális: 5. szakkör anyagai
 * Joystick - a szakkör anyagában leírt feladat elkészítése
+* 3. Pluszfeladat átnézése
+* Ha valaki valamit nem ért, ajánlott átnézni a korábbi szakköröket
 
 # DNG Arduino szakkör
 ## 1. szakkör

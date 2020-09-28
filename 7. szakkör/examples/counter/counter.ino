@@ -8,7 +8,7 @@
 
 #include "segment4.h"
 
-segment4 disp = segment4(12,11,10,9,8,7,6,5,4,3,2,13);
+segment4 disp = segment4(13,12,11,10,9,8,7,6,5,4,3,2);
  
 void setup() {
   // put your setup code here, to run once:

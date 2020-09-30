@@ -1,8 +1,7 @@
 # Aktuális feladatok
 ## Haladóknak (akik tavasszal is jártak)
-* Aktuális: 5. szakkör anyagai és 3. Pluszfeladat átnézése
-* Joystick - a szakkör anyagában leírt feladat elkészítése
-* Ha valaki valamit nem ért, ajánlott átnézni a korábbi szakköröket
+* Aktuális: Projektfeladatok kidolgozása
+* A szakkörök megszokott időpontjában lehetőség van a saját robotjaitok építésére, ehhez használjátok az itt található anyagokat
 
 # DNG Arduino szakkör
 ## 1. szakkör

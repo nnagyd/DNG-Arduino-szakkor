@@ -1,12 +1,20 @@
-# Aktuális feladatok
-## Haladóknak (akik tavasszal is jártak)
-* Aktuális: Projektfeladatok kidolgozása
-* A szakkörök megszokott időpontjában lehetőség van a saját robotjaitok építésére, ehhez használjátok az itt található anyagokat
+# DNG Robotika szakkör
+* Időpont: minden szerda 8-9.óra
+* Akinek van eszköze, az hozza magával az órákra
 
-# DNG Arduino szakkör
-## 1. szakkör
+## 0. szakkör (2021. 09. 15.)
+* Tudnivalók:
+  - időpont, eszközök (lásd feljebb)
+  - tananyag: programozás alapok, robotika, elektronika alapok
+* Ősz: programozás és robotika alapok
+* Tavasz: felkészülés a diákcserére, azaz robotépítés
+
+## 1. szakkör (2021. 09. 22)
+* Mi az az Arduino?
+* Programozás bevezetés
 * LEDek, ellenállás
-* Arduino alapok. digitalWrite() 
+* Arduino alapok. digitalWrite() függvény használata
+
 ## 2. szakkör
 * Gomb
 * If...else elágazás. digitalRead()
@@ -24,3 +32,7 @@
 ## 7. szakkör
 * 7 szegmens kijelző
 * Saját könyvtár használata
+
+# Feladatokk
+## Haladóknak (akik tavasszal is jártak)
+* Aktuális: Pluszfeladatok kidolgozása

@@ -9,18 +9,22 @@
 * Ősz: programozás és robotika alapok
 * Tavasz: felkészülés a diákcserére, azaz robotépítés
 
-## 1. szakkör (2021. 09. 22)
+## 1. szakkör (2021. 09. 22.)
 * Mi az az Arduino?
 * Programozás bevezetés
 * LEDek, ellenállás
 * Arduino alapok. digitalWrite() függvény használata
 
-## 2. szakkör
+## 2. szakkör (2021. 09. 29.)
+* Változók a programozásban
+* Ismétlés az előző alkalomról
 * Gomb
 * If...else elágazás. digitalRead()
+
 ## 3. szakkör
 * Ultrahangos távolságmérő
 * pulseIn() függvény
+
 ## 4. szakkör
 * Szervomotor
 * Külső könyvtárak használata, servo könyvtár, for ciklus

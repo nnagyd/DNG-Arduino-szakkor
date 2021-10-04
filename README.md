@@ -21,7 +21,11 @@
 * Gomb
 * If...else elágazás. digitalRead()
 
-## 3. szakkör
+## 3. szakkör (2021. 10. 06.)
+* Gyakorlás
+* Számláló készítése LED-el
+
+## 3. szakkör 2
 * Ultrahangos távolságmérő
 * pulseIn() függvény
 

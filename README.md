@@ -24,20 +24,21 @@
 ## 3. szakkör (2021. 10. 06.)
 * Gyakorlás
 * Számláló készítése LED-el
+* A számláló önálló továbbfejlesztése
 
-## 3. szakkör 2
+## 4. szakkör (2021. 10. 13.)
 * Ultrahangos távolságmérő
 * pulseIn() függvény
 
-## 4. szakkör
+## 6. szakkör
 * Szervomotor
 * Külső könyvtárak használata, servo könyvtár, for ciklus
-## 5. szakkör
+## 7. szakkör
 * Joystick
 * analogRead()
-## 6. szakkör
+## 8. szakkör
 * Függvények
-## 7. szakkör
+## 9. szakkör
 * 7 szegmens kijelző
 * Saját könyvtár használata
 

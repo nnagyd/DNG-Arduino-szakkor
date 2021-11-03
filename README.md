@@ -27,6 +27,9 @@
 * A számláló önálló továbbfejlesztése
 
 ## 4. szakkör (2021. 10. 13.)
+* Fénymérés fotodiódával
+
+## 5. szakkör (2021. 11. 03.)
 * Ultrahangos távolságmérő
 * pulseIn() függvény
 

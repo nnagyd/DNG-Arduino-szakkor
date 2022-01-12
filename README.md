@@ -49,8 +49,8 @@
 * Jelzőlámpa irányítása függvényekkel
 
 ## 10. szakkör
-* 7 szegmens kijelző
-* Saját könyvtár használata
+* A joystick használata
+* Változó specifier-ök
 
 # Feladatokk
 ## Haladóknak (akik tavasszal is jártak)

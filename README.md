@@ -33,15 +33,22 @@
 * Ultrahangos távolságmérő
 * pulseIn() függvény
 
-## 6. szakkör
+## 6. szakkör (2021. 11. 17)
 * Szervomotor
 * Külső könyvtárak használata, servo könyvtár, for ciklus
-## 7. szakkör
-* Joystick
-* analogRead()
-## 8. szakkör
-* Függvények
-## 9. szakkör
+
+## 7. szakkör (2021. 12. 01)
+* Gyakorlás
+* Jelzőlámpa irányítása 
+
+## 8. szakkör (2012. 12. 08)
+* Gyakorlás
+
+## 9. szakkör (2021. 12. 15.)
+* Gyakorlás
+* Jelzőlámpa irányítása függvényekkel
+
+## 10. szakkör
 * 7 szegmens kijelző
 * Saját könyvtár használata
 

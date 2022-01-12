@@ -48,7 +48,7 @@
 * Gyakorlás
 * Jelzőlámpa irányítása függvényekkel
 
-## 10. szakkör
+## 10. szakkör (2022. 01. 12.)
 * A joystick használata
 * Változó specifier-ök
 
